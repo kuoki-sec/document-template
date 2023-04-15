@@ -45,3 +45,7 @@ $ git submodule add https://github.com/[user]/[project].wiki.git
 ```
 git submodule add https://github.com/kuoki-sec/document-template.wiki.git
 ```
+
+
+フォントについて
+'BIZ UDゴシック'推奨
