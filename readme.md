@@ -63,7 +63,7 @@ git submodule add https://github.com/kuoki-sec/document-template.wiki.git
 - /docs/images/Google.png  
 ![パス4](/docs/images/Google.png)
 
-- https://github.com/[user]/[project].wiki/images/test.png
+- https://github.com/[user]/[project].wiki/images/Google.png
 ![](https://github.com/kuoki-sec/document-template.wiki/images/Google.png)
 
 
