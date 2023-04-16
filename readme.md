@@ -3,21 +3,6 @@
 ## 目的
 - このドキュメントは、プロジェクトの設計書を記述するためのテンプレートです。
 
-## 概要
-
-## インストール方法
-
-1. 以下のコマンドを実行してください。
-
-composer
-```bash
-composer install xxxx\https://github.com/kuoki-sec/document-template.git
-```
-
-npm
-```bash
-npm install xxxx\
-```
 
 ## 使い方
 
@@ -33,31 +18,7 @@ $ git submodule add https://github.com/[user]/[project].wiki.git
 git submodule add https://github.com/kuoki-sec/document-template.wiki.git
 ```
 
-
-## 参考
-- GitHub 基本的な書き方とフォーマットの構文  
-https://docs.github.com/ja/enterprise-server@3.8/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images
-
-- GitHub ウィキについて
-https://docs.github.com/ja/enterprise-server@3.8/communities/documenting-your-project-with-wikis/about-wikis
-
-- GitHubで仕様書管理をしてみる  
-https://blog.spacemarket.com/code/document/
-
-
-## 参考
-
-```
-$ cd [project]
-$ //git submodule add https://github.com/[user]/[project].wiki.git
-$ git submodule add https://github.com/kuoki-sec/document-template.wiki.git
-```
-
-
-## フォントについて
-'BIZ UDゴシック'推奨
-
-## 画像パス確認
+## 画像パス確認（検証）
 
 - images/Goole.png  
 ![相対パス1](images/Goole.png)
