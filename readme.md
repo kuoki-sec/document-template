@@ -33,23 +33,28 @@ $ git submodule add https://github.com/[user]/[project].wiki.git
 git submodule add https://github.com/kuoki-sec/document-template.wiki.git
 ```
 
-```bash
-
-```
 
 ## 参考
+- GitHub 基本的な書き方とフォーマットの構文  
+https://docs.github.com/ja/enterprise-server@3.8/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images
+
+- GitHub ウィキについて
+https://docs.github.com/ja/enterprise-server@3.8/communities/documenting-your-project-with-wikis/about-wikis
+
+- GitHubで仕様書管理をしてみる  
 https://blog.spacemarket.com/code/document/
 
-参考
+
+## 参考
+
+```
 $ cd [project]
-$ git submodule add https://github.com/[user]/[project].wiki.git
-
-```
-git submodule add https://github.com/kuoki-sec/document-template.wiki.git
+$ //git submodule add https://github.com/[user]/[project].wiki.git
+$ git submodule add https://github.com/kuoki-sec/document-template.wiki.git
 ```
 
 
-フォントについて
+## フォントについて
 'BIZ UDゴシック'推奨
 
 ## 画像パス確認
